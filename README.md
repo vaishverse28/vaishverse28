@@ -35,7 +35,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,node.js,react,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,node,react,html,css,js" />
 </p>
 
 ### Backend & Database
