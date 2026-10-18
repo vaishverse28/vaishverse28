@@ -35,7 +35,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,node,react,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,react,html,css,js" />
 </p>
 
 ### Backend & Database
@@ -58,8 +58,8 @@
 - 🗂️ Record Management and CRUD Operations
 - 🔐 User Authentication and Access Control
 - 🗄️ Database Integration
+- 📈 Efficient Business Operations Management
 
-📈 Efficient Business Operations Management
 ### 📧 Faculty Management Project
 - 👨‍🏫 Faculty Profile Management
 - 📚 Department and Subject Management
