@@ -52,18 +52,29 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ Bussiness Management Project
-- Backend development using Java and Spring Boot
-- REST API development and database integration
-- MySQL, Spring Data JPA and Maven
+### 👤 Bussiness Management Project
+- 📊 Business Data Management
+- 👤 User and Admin Management
+- 🗂️ Record Management and CRUD Operations
+- 🔐 User Authentication and Access Control
+- 🗄️ Database Integration
 
+📈 Efficient Business Operations Management
 ### 📧 Faculty Management Project
-- WordPress plugin development using PHP
-- Organized plugin structure and reusable components
+- 👨‍🏫 Faculty Profile Management
+- 📚 Department and Subject Management
+- 🕒 Faculty Attendance Tracking
+- 📅 Timetable and Schedule Management
+- 🔐 Secure Login and Role-Based Access
+- 🗄️ Database Management and CRUD Operations
 
 ### 📧 AI-Powered Trash Email Detection System
-- Hackathon project idea focused on unwanted email detection
-- Goal: classify emails and provide an intuitive user interface
+- 🤖 AI-Powered Email Classification
+- 📩 Spam and Trash Email Detection
+- 🛡️ Phishing and Suspicious Email Identification
+- 📊 Email Classification Results and Confidence Scores
+- ⚡ Fast and User-Friendly Interface
+- 🔍 Real-Time Email Text Analysis
 
 ---
 
