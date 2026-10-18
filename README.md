@@ -9,10 +9,10 @@
 
 <br/>
 
-<a href="https://github.com/yuvraj9090">
+<a href="https://github.com/vaishverse28">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/yuvraj9090?tab=repositories">
+<a href="https://github.com/vaishverse28?tab=repositories">
   <img src="https://img.shields.io/badge/My-Projects-00D9FF?style=for-the-badge&logo=github" />
 </a>
 
@@ -35,7 +35,7 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,php,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,node.js,react,html,css,js" />
 </p>
 
 ### Backend & Database
@@ -52,12 +52,12 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ Online Food Ordering System
+### 🍽️ Bussiness Management Project
 - Backend development using Java and Spring Boot
 - REST API development and database integration
 - MySQL, Spring Data JPA and Maven
 
-### 🥗 Dietary Icon Generator
+### 📧 Faculty Management Project
 - WordPress plugin development using PHP
 - Organized plugin structure and reusable components
 
@@ -71,13 +71,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuvraj9090&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishverse28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj9090&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishverse28&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yuvraj9090&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=vaishnavsalunke&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj9090&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishverse28&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yuvraj9090&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=vaishverse28&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
 </div>
 
@@ -106,7 +106,7 @@
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://github.com/yuvraj9090">
+<a href="https://github.com/vaishverse28">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/">
@@ -120,7 +120,7 @@
 
 ### 💡 "Consistency turns beginners into builders."
 
-<img src="https://komarev.com/ghpvc/?username=yuvraj9090&style=for-the-badge&color=00D9FF" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vaishverse28&style=for-the-badge&color=00D9FF" alt="Profile Views" />
 
 **Thanks for visiting my profile! ⭐**
 
